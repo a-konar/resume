@@ -1,0 +1,139 @@
+ARVIND B. KONAR
+236-808-7338 | abkonar@gmail.com
+Summary
+Site Reliability Engineer/Devops Engineer with 10+ years of experience spanning SRE, cloud
+infrastructure, Kubernetes, IaC, networking, and security. Proven track record building automated
+multi-cloud platforms (GCP/AWS/Azure), GitOps delivery, and observability systems that reduce
+operational toil and improve reliability for production services.
+Youtube - http://youtube.com/arvindkonar
+Linkedin - https://www.linkedin.com/in/arvind-konar-3526b623
+Professional Experience
+Plenty of Fish ULC
+Staff Site Reliability Engineer
+Mar 2019 – Present
+●
+●
+●
+●
+●
+●
+●
+●
+Built automated multi-cloud infrastructure CICD pipelines using Terraform, Terragrunt,
+Atlantis, and GitHub Actions, enabling consistent, auditable deployments across AWS, GCP,
+and Azure
+Design, implement and manage AWS, GCP and Azure Cloud VPC Network along with Nat
+Gateway, Loadbalancers, Transit Gateway, Cloud VPN, Cloud router, Direct/Inter Connect
+Standardized Kubernetes deployments using GKE with ArgoCD and Atlantis, reducing
+configuration drift and enabling GitOps-based CI/CD across production and staging
+environments
+Architected and deployed Grafana Stack with Prometheus, Loki, Mimir/Thanos, otel
+integrated with Grafana and Alertmanager, delivering unified observability for Development
+and Infra teams
+Worked with AI and ML teams to build out GCP Infrastructure and pipelines for ML
+workloads using GCP Dataflow, Vertex AI, Cloud run, Notebooks, Artifact Registry, Cloud
+Armour, GKE, Gateway API, containerized workloads
+Migrated VMs from VMware to Proxmox to support open source virtualization and cost
+savings for the company
+Implemented Cloudflare Zerotrust VPN and Cloudflare DNS zones along with WAF/ddos
+protection to protect digital assets
+Implemented a hub-and-spoke network topology in GCP to unify inter-region connectivity,
+reducing latency and simplifying resource management across environments
+●
+●
+●
+●
+●
+●
+Developed a containerized Slack bot in Python to integrate with PagerDuty, Jira, and internal
+APIs, automating repetitive workflows and improving incident response times.
+Built and maintained VXLAN/EVPN networks using Juniper QFX spine-leaf architecture to
+support growing data center traffic demands
+Manage and upgrade Palo Alto firewall and Netscalars
+Deployed and managed F5 (physical and virtual) load balancers for highly available services
+across dev and production tiers
+Improved productivity by 50% by implementing Ansible playbooks and Python scripts for
+automating network tasks
+Deployed and managed virtual (Windows and Linux) workloads in virtualization environment
+(Virtio, VMware and Proxmox)
+Verisign
+Network Security Engineer (DDOS)
+Sept 2016 – Mar 2019
+●
+●
+●
+●
+●
+●
+●
+Designed and implemented Arbor-based DDOS mitigation infrastructure on VMware,
+improving protection for customer-facing services and reducing incident response times.
+Built automation for network configuration and change deployments using Ansible, Python,
+Jinja2, and shell scripts, significantly reducing manual errors and deployment time.
+Created a real-time monitoring stack using AWS for internal infrastructure, enabling faster
+detection and resolution of outages.
+Led change review meetings as part of the Change Advisory Board, improving governance
+and reducing unplanned service disruptions.
+Delivered process documentation and trained Tier1 and Tier2 engineers, reducing escalations
+and improving resolution efficiency.
+Conducted multi-vendor device upgrades and bug validation using pre-production test
+environments to ensure high stability before deployment.
+Analyzed DDOS traffic patterns and created mitigation strategies tailored to evolving attack
+types, increasing resiliency for internal and external services.
+Iometrix
+Network Automation/Test Engineer
+Aug 2014 – Sept 2016
+●
+●
+●
+●
+●
+Automated MEF CE 2.0 test report generation using Python, streamlining certification
+workflows and reducing documentation turnaround times.
+Designed and executed test cases for E-Line, E-LAN, E-Tree, and E-Access services using the
+Xena ATTEST suite, ensuring vendor compliance with MEF standards.
+Configured and maintained test environments, including test probes and firmware upgrades, to
+ensure test integrity for real-time service evaluations.
+Used Wireshark and other traffic analysis tools to troubleshoot test issues, accelerating root
+cause identification and resolution.
+Maintained and updated detailed Test Execution Guides (TEGs), improving team
+collaboration and process consistency.
+ZTE Telecom Pvt. Ltd.
+Telecom Engineer
+Sept 2010 – Jun 2012
+●
+●
+●
+●
+●
+Engineered MPLS Layer 2 and Layer 3 VPNs using ZTE and Cisco routers, enabling secure
+enterprise connectivity across North Indian cities.
+Deployed Packet Transport Network (PTN) systems and supported large enterprise clients,
+earning multiple commendations for service excellence.
+Led microwave installation and commissioning projects across three cities, expanding ZTE’s
+infrastructure footprint in the region.
+Contributed to the planning and rollout of a DWDM backbone network, coordinating closely
+with vendors and internal stakeholders.
+Delivered SDH training to vendors, increasing deployment success rates and reducing
+post-installation support tickets
+Education
+Masters in Computer Networks/Telecommunications, George Mason University May 2014
+Bachelors in Electronics and Telecommunication Engineering, Mumbai University May 2010
+Certifications
+Aws Solutions Architect Associate
+Google Cloud Professional Cloud Network Engineer
+F5 BIG IP 101
+Cisco Certified Network Associate R&S
+Cisco Certified Network Professional R&S
+JNCIP-DC – Training by Juniper training center
+Core Skills
+DevOps / SRE: Infrastructure as Code (Terraform/Terragrunt), CI/CD (GitHub Actions, Teamcity,
+Octopus, Atlantis), GitOps (Argo CD), Kubernetes (GKE, EKS), Incident Automation
+(PagerDuty/Jira/Slack/Teams), Reliability & Monitoring (Prometheus, Grafana, Alertmanager, Loki,
+Mimir, Thanos)
+Cloud Platforms:
+GCP (GKE, Cloud Run, Cloud VPN/NAT, Cloud Router, PSC, Cloud Armor)
+AWS (VPC, EKS/ECS, Lambda, S3, IAM, CloudFront, Shield, Transit Gateway, EC2, RDS)
+Azure (VNet, VPN), Couchbase, Postgres
+Networking / Security: Cloudflare Zero Trust, WAF, DNS (Zones), Palo Alto, F5 BIG-IP, NetScaler,
+BGP, VXLAN/EVPN, OSPF/ISIS, Juniper, Cisco, Arista
